@@ -1,6 +1,5 @@
 -- A script that creates a table called second_table in the database hbtn_0c_0.
 -- The database name will be passed as argument of mysql command
-USE hbtn_0c_0;
 CREATE TABLE IF NOT EXISTS second_table (
     id INT,
     name VARCHAR(256),
